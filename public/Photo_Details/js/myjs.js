@@ -48,8 +48,8 @@ function showDetails() {
         "tim_berner": "Tim Berners-Lee invented the World Wide Web.",
         "Sundar_Pichai": "Sundar Pichai is the CEO of Google.",
         "satyanadella": "Satya Nadella is the CEO of Microsoft.",
-        "AdaLovelace": "Ada Lovelace was the first computer programmer."
-       "NaveenKumar": "The name which don't need introduction"
+        "AdaLovelace": "Ada Lovelace was the first computer programmer.",
+       "NaveenKumar": "The name which don't need introduction",
     };
 
     if (name === "") {
